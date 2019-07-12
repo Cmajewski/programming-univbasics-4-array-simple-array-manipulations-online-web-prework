@@ -24,6 +24,6 @@ end
 
 def using_concat
   meal=["chicken", "broccoli"]
-  meal2=("turkey","spinach")
+  meal_two= ("turkey","spinach")
   array.concat(meal,meal2)
 end
