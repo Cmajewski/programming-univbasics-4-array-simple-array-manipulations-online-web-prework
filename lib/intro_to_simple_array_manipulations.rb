@@ -22,8 +22,7 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-def using_concat(meal,meal_two)
-  meal=["chicken", "broccoli"]
-  meal_two= ["turkey","spinach"]
-meal+meal_two
+def using_concat(array1,array2)
+  array1+array2
+  
 end
